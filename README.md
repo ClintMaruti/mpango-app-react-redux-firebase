@@ -1,10 +1,12 @@
-## MarioPlan - React | Redux | Firebase App 
+## Mpango App - React | Redux | Firebase App 
 
-```In the project directory, you can run:```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd61b597-3340-42c0-8034-fec893095749/deploy-status)](https://app.netlify.com/sites/relaxed-boyd-b5aed2/deploys)
 
-`npm start`
+## In the project directory, you can run:
+
+`npm install`
 
 ```Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.```
+npm start```
 
 
